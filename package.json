@@ -1,8 +1,12 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Mostafa",
+	"description": "my freeCodeCamp backend development challenge",
+	"keywords": ["backend", "node", "server", "freecodecamp"],
+	"license": "MIT",
+	"version": "0.0.0",
 	"dependencies": {
-		"express": "^4.14.0"
-	},
+		"express": "^4.14.0"	},
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
